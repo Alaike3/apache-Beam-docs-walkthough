@@ -6,6 +6,6 @@ The purpose of this repo is to help myself and others get started using Apache B
 
 However detailed - the best source is the official documentation which can be found here - https://beam.apache.org/documentation/programming-guide/#overview
 
-To see the documentation cheatsheet in full visit - https://www.notion.so/Creating-a-Pipeline-5db102ed35324367bd13e185ea887ea8
+To see the documentation cheatsheet in full visit - https://olivine-knight-d9e.notion.site/Creating-a-Pipeline-5db102ed35324367bd13e185ea887ea8
 
 
