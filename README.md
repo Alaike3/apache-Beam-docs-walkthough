@@ -1,4 +1,4 @@
-# apache-Beam-docs-walkthough
+# Easy Apache Beam - apache-Beam-docs-walkthough
 ## Purpose
 Documentation is typically difficult to read and implement for various technologies. This is why various video tutorials exist to give people the start that they need to start building technologies.
 
